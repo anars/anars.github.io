@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="354.33072"
+   height="354.33072"
+   id="svg2">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5286">
+      <stop
+         id="stop5288"
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5290"
+         style="stop-color:#ff0000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5223">
+      <stop
+         id="stop5225"
+         style="stop-color:#0000ff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5227"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5209">
+      <stop
+         id="stop5211"
+         style="stop-color:#0000ff;stop-opacity:1"
+         offset="0" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-166.53976,-126.20364)"
+     id="layer1">
+    <g
+       id="text2985"
+       style="font-size:215.92098999px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fa0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.31618834;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;font-family:Mercury Blob;-inkscape-font-specification:Mercury Blob">
+      <path
+         d="m 344.09378,128.86173 c 24.35567,3.5e-4 46.89779,4.66424 67.62642,13.99167 21.24635,8.8099 39.64279,21.24693 55.18937,37.31113 16.06421,15.54659 28.50124,33.94303 37.31113,55.18938 9.32744,20.72863 13.99133,43.27075 13.99168,67.62642 l 0,174.89592 -174.1186,0 c -23.83782,0 -46.37994,-4.40478 -67.62643,-13.21436 -21.2467,-9.32776 -39.90224,-22.02389 -55.96669,-38.08844 -16.06455,-16.06445 -28.76068,-34.71999 -38.08844,-55.9667 -8.80958,-21.24648 -13.21436,-43.7886 -13.21436,-67.62642 0,-24.35567 4.40478,-46.89779 13.21436,-67.62642 9.32776,-21.24635 22.02389,-39.64279 38.08844,-55.18938 16.06445,-16.0642 34.71999,-28.50123 55.96669,-37.31113 21.24649,-9.32743 43.78861,-13.99132 67.62643,-13.99167 m 104.93755,279.83347 0,-105.71487 c -2.8e-4,-14.50969 -2.85044,-27.98314 -8.55047,-40.42039 -5.18237,-12.95502 -12.69641,-24.09653 -22.54214,-33.42455 -9.32802,-9.84573 -20.46953,-17.35977 -33.42455,-22.54214 -12.43725,-5.70003 -25.9107,-8.55019 -40.42039,-8.55047 -14.51005,2.8e-4 -28.2426,2.85044 -41.19771,8.55047 -12.95537,5.18237 -24.35598,12.69641 -34.20187,22.54214 -9.32787,9.32802 -16.84191,20.46953 -22.54214,33.42455 -5.18217,12.43725 -7.77322,25.9107 -7.77315,40.42039 -7e-5,14.51005 2.59098,28.2426 7.77315,41.19771 5.70023,12.95537 13.21427,24.35598 22.54214,34.20187 9.84589,9.32787 21.2465,16.84191 34.20187,22.54214 12.95511,5.18217 26.68766,7.77322 41.19771,7.77315 l 104.93755,0"
+         id="path5299"
+         style="font-size:777.31518555px;fill:#fa0000;stroke:#000000;stroke-dashoffset:0;font-family:REZ;-inkscape-font-specification:REZ" />
+    </g>
+  </g>
+</svg>
