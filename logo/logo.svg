@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="354.33072"
+   height="354.33069"
+   id="svg2"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="anars-logo.svg"
+   inkscape:export-filename="/Users/kay/anars-logo.png"
+   inkscape:export-xdpi="274.32001"
+   inkscape:export-ydpi="274.32001">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1233"
+     inkscape:window-height="812"
+     id="namedview2991"
+     showgrid="false"
+     inkscape:zoom="0.66604448"
+     inkscape:cx="-88.582657"
+     inkscape:cy="177.16534"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3781">
+      <stop
+         style="stop-color:#ff1a2f;stop-opacity:1;"
+         offset="0"
+         id="stop3783" />
+      <stop
+         style="stop-color:#c91d2b;stop-opacity:1;"
+         offset="1"
+         id="stop3785" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3771">
+      <stop
+         style="stop-color:#2358af;stop-opacity:1;"
+         offset="0"
+         id="stop3773" />
+      <stop
+         style="stop-color:#26a8ef;stop-opacity:0.94117647;"
+         offset="1"
+         id="stop3775" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3771"
+       id="radialGradient3779"
+       cx="177.16534"
+       cy="93.527397"
+       fx="177.16534"
+       fy="93.527397"
+       r="177.16536"
+       gradientTransform="matrix(1,0,0,0.80750839,0,27.538328)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3781"
+       id="radialGradient3787"
+       cx="177.16536"
+       cy="204.80191"
+       fx="177.16536"
+       fy="204.80191"
+       r="92.717401"
+       gradientTransform="matrix(1,0,0,0.86206516,0,37.849627)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:url(#radialGradient3779);stroke:none;fill-opacity:1;fill-rule:nonzero"
+     id="anars-logo-top"
+     d="M 29.52198,275.77946 C 3.257839,235.63516 -5.453638,191.15787 3.274285,141.7694 9.992229,103.75479 34.239357,63.39281 65.026039,38.97689 c 14.8353,-11.7654 30.70675,-20.92905 48.520321,-28.01403 8.89909,-3.53944 27.48332,-8.26516 38.63828,-9.82522 10.94722,-1.53101 39.89275,-1.51298 49.98199,0.0312 27.4894,4.20713 51.62934,13.51983 74.49239,28.73762 50.46966,33.59296 80.82094,94.43125 77.4117,155.16965 -1.72163,30.67233 -9.36251,57.00053 -23.60052,81.32029 -5.66639,9.6787 -12.58964,19.65778 -13.66777,19.70054 -0.89759,0.0356 -3.61268,-4.27581 -11.80027,-18.73817 -9.12198,-16.11283 -22.63501,-39.50568 -25.22606,-43.66967 -1.19321,-1.91756 -3.30323,-5.6518 -4.68893,-8.29832 -1.3857,-2.64652 -3.26093,-5.89452 -4.16716,-7.21778 -0.90623,-1.32326 -2.88776,-4.78779 -4.40339,-7.69896 -1.51562,-2.91117 -3.57485,-6.50538 -4.57607,-7.98715 -1.00121,-1.48176 -3.44144,-5.59589 -5.42272,-9.14251 -5.0088,-8.96611 -20.90643,-36.54271 -26.7415,-46.38678 -2.66684,-4.49908 -6.89885,-11.86121 -9.40449,-16.36029 -17.89558,-32.133 -25.05031,-41.36205 -34.58801,-44.61585 -10.87097,-3.70865 -19.21745,-1.26084 -28.79323,8.44431 -5.57824,5.6536 -8.69447,10.2738 -18.23058,27.02902 -11.73622,20.62088 -21.42105,37.45995 -36.80762,63.99762 -4.756821,8.20421 -14.883011,25.74341 -22.502651,38.976 -7.61965,13.23259 -14.53147,25.14192 -15.35961,26.46518 -0.82815,1.32326 -3.18876,5.41522 -5.24581,9.09323 -12.85921,22.99236 -20.768229,36.13817 -21.7421,36.13817 -0.446483,0 -3.8576,-4.65547 -7.580249,-10.34548 z" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:url(#radialGradient3787);fill-opacity:1"
+     id="anars-logo-bottom"
+     d="m 157.49856,353.47534 c -19.71917,-1.93848 -40.75956,-8.1739 -60.314811,-17.87456 -7.00468,-3.47477 -12.73579,-6.70494 -12.73579,-7.17813 0,-0.47319 1.94641,-4.15661 4.32536,-8.18537 2.37895,-4.02875 4.32537,-7.51637 4.32537,-7.75027 0,-0.23388 1.66545,-3.1213 3.70101,-6.41647 2.03555,-3.29518 5.381981,-9.0227 7.436511,-12.72782 2.05453,-3.70513 4.17377,-7.46528 4.70942,-8.35589 0.53565,-0.89061 3.07675,-5.43781 5.64688,-10.10489 2.57012,-4.66708 5.22101,-9.13519 5.89086,-9.92914 0.66983,-0.79396 3.05297,-4.90809 5.29585,-9.14252 2.24287,-4.23443 4.61114,-8.34856 5.26279,-9.14252 0.65166,-0.79395 3.12578,-4.90809 5.49803,-9.14252 18.008,-32.14392 19.7596,-34.63572 27.7733,-39.50975 5.08195,-3.0909 6.51383,-3.50486 12.2477,-3.54079 13.24679,-0.0831 19.90361,5.50186 32.02322,26.8666 7.60665,13.40916 19.22456,33.65686 25.85211,45.05505 2.76991,4.76373 6.16431,10.64881 7.54313,13.07795 7.06314,12.44351 22.7443,39.42594 25.11824,43.22071 1.49006,2.38187 2.74318,4.8126 2.78474,5.40162 0.0925,1.31023 -22.68418,12.62734 -32.60498,16.20058 -23.12982,8.33081 -53.2035,11.79061 -79.77894,9.17813 z" />
+</svg>
